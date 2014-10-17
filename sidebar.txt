@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ifa:home|Door43 (ifa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ifa|d43-ifa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ifa/archive/master.zip|d43-ifa.zip]]
+
+**Recent Changes**
+{{changes>ns = ifa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ifa|Ethnologue data]]
+
